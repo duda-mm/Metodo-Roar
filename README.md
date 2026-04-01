@@ -1,5 +1,5 @@
 # 📷 Preview do Site
-<img width="419" height="889" alt="image" src="https://github.com/user-attachments/assets/8b1c0d70-fbbb-45c2-95c6-a6b58ddbbf6f" />
+<img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/5ecc142c-dc52-443a-ac0a-b3b23a3eccac" />
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/5bbfbf34-7283-4b97-8577-65186ebc4baa" />
 <img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/98b3784c-0615-4c1c-9928-0515b395db99" />
 <img width="1900" height="912" alt="image" src="https://github.com/user-attachments/assets/de25aa82-80bf-4d7f-870d-3ca55d0caee5" />
