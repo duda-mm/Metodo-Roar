@@ -2,7 +2,7 @@
 
 O **Método ROAR** é uma aplicação web de diagnóstico comportamental baseada no modelo científico **Big Five (OCEAN)**. O projeto une psicologia, neurociência e consultoria de imagem para identificar o perfil predominante do usuário e oferecer direcionamentos personalizados de estilo, tecidos e comportamento.
 
-🔗 **Acesse o projeto online:** [[https://seu-link-da-vercel.vercel.app/](https://projeto-metodo-roar-app.vercel.app/)]
+🔗 **Acesse o projeto online:** [[Metodo ROAR](https://projeto-metodo-roar-app.vercel.app/)]
 
 ---
 
