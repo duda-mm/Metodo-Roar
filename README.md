@@ -59,4 +59,4 @@ O projeto está disponível online e **não requer instalação ou cadastro**.
 Este projeto foi desenvolvido para fins de consultoria de imagem e aplicação de neuropsicologia no estilo pessoal. Sinta-se à vontade para explorar o código e utilizar o diagnóstico!
 
 ---
-Desenvolvido com 💜 por [Eduarda Medeiros]
+Desenvolvido com 💜 por Eduarda Medeiros
