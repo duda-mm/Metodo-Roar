@@ -5,7 +5,7 @@
 // ╚══════════════════════════════════════════════════════════════╝
 
 // ─── EDITE AQUI — URL pública do seu deploy ───────────────────
-const SITE_URL = "https://tcyh87.csb.app/";
+const SITE_URL = "https://projeto-metodo-roar-app.vercel.app/";
 // Exemplo: const SITE_URL = "https://metodo-roar.vercel.app";
 // ─────────────────────────────────────────────────────────────
 
