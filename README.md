@@ -1,47 +1,55 @@
-🟣 Método ROAR: Diagnóstico de Estilo & Comportamento
-O Método ROAR é um aplicativo web de diagnóstico comportamental baseado no modelo científico Big Five (OCEAN). Ele combina psicologia, neurociência e consultoria de imagem para identificar o perfil predominante do usuário e oferecer direcionamentos personalizados de estilo, tecidos e comportamento.
+# 🟣 Método ROAR: Diagnóstico de Estilo & Comportamento
 
-🔗 Acesse o projeto online: [https://seu-link-da-vercel.vercel.app/](https://projeto-metodo-roar-app.vercel.app/)
+O **Método ROAR** é uma aplicação web de diagnóstico comportamental baseada no modelo científico **Big Five (OCEAN)**. O projeto une psicologia, neurociência e consultoria de imagem para identificar o perfil predominante do usuário e oferecer direcionamentos personalizados de estilo, tecidos e comportamento.
 
-📌 Sobre o Projeto
-O objetivo do Método ROAR é democratizar o autoconhecimento através de uma interface intuitiva e elegante. O usuário responde a um teste psicométrico de 20 perguntas e recebe, instantaneamente, uma análise profunda de sua personalidade dividida em 6 estilos exclusivos: Racional, Observador, Arrojado, Realizador e suas variações.
+🔗 **Acesse o projeto online:** [https://seu-link-da-vercel.vercel.app/](https://seu-link-da-vercel.vercel.app/)
 
-Este projeto foi desenvolvido focado em UX (User Experience), utilizando o conceito de Glassmorphism para transmitir sofisticação e tecnologia.
+---
 
-🚀 Funcionalidades
-✔️ Teste Psicométrico: Questionário de 20 perguntas baseado no padrão científico Big Five.
+## 📌 Sobre o Projeto
 
-✔️ Cálculo em Tempo Real: Lógica avançada para processamento de perguntas diretas e inversas.
+O **Método ROAR** funciona como um consultor de imagem digital. Através de um algoritmo que processa 20 perguntas psicométricas, o sistema mapeia os traços de personalidade e os traduz em **6 estilos exclusivos**. 
 
-✔️ Dashboard de Resultados: Gráfico visual (Radar/Barras) que mostra a pontuação em cada traço de personalidade.
+O objetivo é oferecer uma ferramenta de **autoconhecimento visual e intuitiva**, permitindo que o usuário entenda como sua mente influencia suas escolhas de moda e presença.
 
-✔️ Análise de Estilo: Descrições detalhadas sobre comportamento, neurociência aplicada, tipos de tecidos e modelagens recomendadas.
+---
 
-✔️ Compartilhamento Inteligente: Integração com a Web Share API e botão direto para WhatsApp com mensagem personalizada.
+## 🚀 Funcionalidades
 
-✔️ Interface Responsiva: Design adaptável para qualquer dispositivo (Mobile, Tablet e Desktop).
+* ✔️ **Diagnóstico Big Five:** Questionário de 20 perguntas com cálculo de variáveis inversas.
+* ✔️ **Gráfico de Personalidade:** Visualização dinâmica dos traços (Abertura, Conscienciosidade, Extroversão, Amabilidade e Neuroticismo).
+* ✔️ **Análise Estilo ROAR:** Entrega de resultados detalhados (Comportamento, Tecidos, Modelagens e Neurociência).
+* ✔️ **Interface Glassmorphism:** Design moderno, translúcido e sofisticado com cores roxas e efeitos de desfoque.
+* ✔️ **Compartilhamento Direto:** Botão para WhatsApp e compartilhamento nativo do celular (Instagram/Stories).
+* ✔️ **Design Responsivo:** Adaptado para uma experiência perfeita em smartphones e computadores.
 
-🛠️ Tecnologias Utilizadas
-React.js: Biblioteca principal para a interface do usuário.
+---
 
-Tailwind CSS: Estilização moderna e utilitária (via CDN).
+## 🛠️ Tecnologias Utilizadas
 
-Framer Motion: Animações fluidas e transições de tela.
+* **React.js** - Biblioteca principal para construção da interface.
+* **Tailwind CSS** - Framework de estilização utilitária para design ágil.
+* **Framer Motion** - Biblioteca de animações e transições fluidas.
+* **Lucide React** - Pacote de ícones minimalistas e elegantes.
+* **Recharts** - Renderização de gráficos de dados estatísticos.
+* **Vercel** - Plataforma de Deploy e Hospedagem contínua.
 
-Lucide React: Conjunto de ícones minimalistas.
+---
 
-Recharts: Biblioteca para renderização dos gráficos de dados.
+## 🌐 Como Acessar o Projeto
 
-Vercel: Hospedagem e deploy contínuo (CI/CD).
+O projeto está disponível online e **não requer instalação ou cadastro**.
 
-🌐 Como Acessar o Projeto
-O projeto está disponível online e não requer instalação.
+1.  👉 Acesse diretamente pelo link: [https://seu-link-da-vercel.vercel.app/](https://seu-link-da-vercel.vercel.app/)
+2.  Clique no botão **"Iniciar Diagnóstico"**.
+3.  Responda as perguntas conforme sua percepção pessoal.
+4.  Veja seu gráfico de barras e descubra seu **Estilo ROAR** dominante.
 
-Acesse o link: https://seu-link-da-vercel.vercel.app/
+---
 
-Clique em "Iniciar Diagnóstico".
+## 📝 Licença
 
-Ao final, você terá a opção de compartilhar seu resultado diretamente no seu WhatsApp ou redes sociais.
+Este projeto foi desenvolvido para fins de consultoria de imagem e aplicação de neuropsicologia no estilo pessoal. Sinta-se à vontade para explorar o código e utilizar o diagnóstico!
 
-📝 Licença
-Este projeto foi desenvolvido para fins de consultoria de imagem e autoconhecimento. Sinta-se à vontade para explorar e contribuir!
+---
+Desenvolvido com 💜 por [Eduarda Medeiros]
