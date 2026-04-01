@@ -1,3 +1,10 @@
+# 📷 Preview do Site
+<img width="419" height="889" alt="image" src="https://github.com/user-attachments/assets/8b1c0d70-fbbb-45c2-95c6-a6b58ddbbf6f" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/5bbfbf34-7283-4b97-8577-65186ebc4baa" />
+<img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/98b3784c-0615-4c1c-9928-0515b395db99" />
+<img width="1900" height="912" alt="image" src="https://github.com/user-attachments/assets/de25aa82-80bf-4d7f-870d-3ca55d0caee5" />
+<img width="1899" height="913" alt="image" src="https://github.com/user-attachments/assets/a75ff6d1-2590-49e8-8f08-0c7970b21d91" />
+
 # 🟣 Método ROAR: Diagnóstico de Estilo & Comportamento
 
 O **Método ROAR** é uma aplicação web de diagnóstico comportamental baseada no modelo científico **Big Five (OCEAN)**. O projeto une psicologia, neurociência e consultoria de imagem para identificar o perfil predominante do usuário e oferecer direcionamentos personalizados de estilo, tecidos e comportamento.
