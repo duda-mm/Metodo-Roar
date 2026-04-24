@@ -339,7 +339,7 @@ function WelcomeScreen({ onStart }) {
               fontFamily: "'Inter',sans-serif",
             }}
           >
-            <Sparkles size={11} /> Método Potencial Oculto & Imagem Silenciosa
+            <Sparkles size={11} /> Método Potencial Oculto
           </span>
         </motion.div>
 
@@ -869,7 +869,7 @@ function ResultScreen({ styleName, traits, onRestart }) {
               className="text-xs font-bold uppercase tracking-wider"
               style={{ color: "#6B7280", fontFamily: "'Inter',sans-serif" }}
             >
-              Perfil Big Five
+              Potencial Oculto
             </h3>
           </div>
           {TRAIT_ORDER.map((k, i) => (
