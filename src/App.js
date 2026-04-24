@@ -1,5 +1,5 @@
 // ╔══════════════════════════════════════════════════════════════╗
-// ║  MÉTODO ROAR — Diagnóstico Comportamental Visual             ║
+// ║  Método ROAR — Diagnóstico Comportamental Visual             ║
 // ║  Arquivo único — cole no App.js do CodeSandbox / Vercel      ║
 // ║  Deps: react · framer-motion · lucide-react · tailwindcss    ║
 // ╚══════════════════════════════════════════════════════════════╝
@@ -339,7 +339,7 @@ function WelcomeScreen({ onStart }) {
               fontFamily: "'Inter',sans-serif",
             }}
           >
-            <Sparkles size={11} /> Método ROAR
+            <Sparkles size={11} /> Método Potencial Oculto & Imagem Silenciosa
           </span>
         </motion.div>
 
@@ -368,8 +368,8 @@ function WelcomeScreen({ onStart }) {
           transition={{ delay: 0.26 }}
         >
           Em 20 afirmações científicas, descubra qual dos{" "}
-          <strong style={{ color: "#4B0082" }}>6 estilos ROAR</strong> expressa
-          autenticamente quem você é — com base no Big Five BFI‑20 e
+          <strong style={{ color: "#4B0082" }}>6 estilos ocultos</strong> expressa
+          autenticamente quem você é — com base na 
           neurociência da percepção.
         </motion.p>
 
@@ -694,7 +694,7 @@ function ResultScreen({ styleName, traits, onRestart }) {
   // ── 1. Web Share API — título e texto exatos conforme especificado ──
   function handleShare() {
     const shareData = {
-      title: "Método ROAR - Diagnóstico Comportamental",
+      title: "Método Potencial Oculto & Imagem Silenciosa - Diagnóstico Comportamental",
       text: `Descobri que meu estilo é ${styleName}! Descubra o seu também.`,
       url: SITE_URL,
     };
@@ -723,7 +723,7 @@ function ResultScreen({ styleName, traits, onRestart }) {
   // ── 2. WhatsApp com encodeURIComponent ──
   function handleWhatsApp() {
     const message =
-      `Olha só, acabei de descobrir que meu estilo comportamental é *${styleName}* no Método ROAR! ${s.emoji}\n\n` +
+      `Olha só, acabei de descobrir que meu estilo comportamental é *${styleName}* no Método Potencial Oculto & Imagem Silenciosa! Revele como você se expressa e é percebida integrando comportamento, emoção e neurociência da percepção. ${s.emoji}\n\n` +
       `_"${s.silent}"_\n\n` +
       `🟣 Faça o seu diagnóstico gratuito aqui: ${SITE_URL}`;
     window.open(
@@ -869,7 +869,7 @@ function ResultScreen({ styleName, traits, onRestart }) {
               className="text-xs font-bold uppercase tracking-wider"
               style={{ color: "#6B7280", fontFamily: "'Inter',sans-serif" }}
             >
-              Perfil Big Five
+              Perfil Potencial Oculto
             </h3>
           </div>
           {TRAIT_ORDER.map((k, i) => (
@@ -1110,7 +1110,7 @@ function ResultScreen({ styleName, traits, onRestart }) {
           animate={{ opacity: 1 }}
           transition={{ delay: 1.8 }}
         >
-          Método ROAR · Big Five BFI‑20 · Neurociência Aplicada ao Design
+          Método Potencial Oculto & Imagem Silenciosa · Diagnóstico Comportamental · Neurociência Aplicada ao Design
         </motion.p>
       </div>
     </motion.div>
