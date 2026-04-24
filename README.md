@@ -7,15 +7,15 @@
 
 # 🟣 Método Potencial Oculto & Imagem Silenciosa: Diagnóstico de Estilo & Comportamento
 
-O **Método ROAR** é uma aplicação web de diagnóstico comportamental baseada no modelo científico **Big Five (OCEAN)**. O projeto une psicologia, neurociência e consultoria de imagem para identificar o perfil predominante do usuário e oferecer direcionamentos personalizados de estilo, tecidos e comportamento.
+O **Método Potencial Oculto & Imagem Silenciosa** é uma aplicação web de diagnóstico comportamental baseada no modelo científico **Big Five (OCEAN)**. O projeto une psicologia, neurociência e consultoria de imagem para identificar o perfil predominante do usuário e oferecer direcionamentos personalizados de estilo, tecidos e comportamento.
 
-🔗 **Acesse o projeto online:** [[Método ROAR](https://projeto-metodo-roar-app.vercel.app/)]
+🔗 **Acesse o projeto online:** [[Método Potencial Oculto & Imagem Silenciosa](https://projeto-metodo-roar-app.vercel.app/)]
 
 ---
 
 ## 📌 Sobre o Projeto
 
-O **Método ROAR** funciona como um consultor de imagem digital. Através de um algoritmo que processa 20 perguntas psicométricas, o sistema mapeia os traços de personalidade e os traduz em **6 estilos exclusivos**. 
+O **Método Potencial Oculto & Imagem Silenciosa** funciona como um consultor de imagem digital. Através de um algoritmo que processa 20 perguntas psicométricas, o sistema mapeia os traços de personalidade e os traduz em **6 estilos exclusivos**. 
 
 O objetivo é oferecer uma ferramenta de **autoconhecimento visual e intuitiva**, permitindo que o usuário entenda como sua mente influencia suas escolhas de moda e presença.
 
@@ -25,7 +25,7 @@ O objetivo é oferecer uma ferramenta de **autoconhecimento visual e intuitiva**
 
 * ✔️ **Diagnóstico Big Five:** Questionário de 20 perguntas com cálculo de variáveis inversas.
 * ✔️ **Gráfico de Personalidade:** Visualização dinâmica dos traços (Abertura, Conscienciosidade, Extroversão, Amabilidade e Neuroticismo).
-* ✔️ **Análise Estilo ROAR:** Entrega de resultados detalhados (Comportamento, Tecidos, Modelagens e Neurociência).
+* ✔️ **Análise Estilo Potencial Oculto & Imagem Silenciosa:** Entrega de resultados detalhados (Comportamento, Tecidos, Modelagens e Neurociência).
 * ✔️ **Interface Glassmorphism:** Design moderno, translúcido e sofisticado com cores roxas e efeitos de desfoque.
 * ✔️ **Compartilhamento Direto:** Botão para WhatsApp e compartilhamento nativo do celular (Instagram/Stories).
 * ✔️ **Design Responsivo:** Adaptado para uma experiência perfeita em smartphones e computadores.
@@ -47,10 +47,10 @@ O objetivo é oferecer uma ferramenta de **autoconhecimento visual e intuitiva**
 
 O projeto está disponível online e **não requer instalação ou cadastro**.
 
-1.  👉 Acesse diretamente pelo link: [[Método ROAR](https://projeto-metodo-roar-app.vercel.app/)]
+1.  👉 Acesse diretamente pelo link: [[Método Potencial Oculto & Imagem Silenciosa](https://projeto-metodo-roar-app.vercel.app/)]
 2.  Clique no botão **"Iniciar Diagnóstico"**.
 3.  Responda as perguntas conforme sua percepção pessoal.
-4.  Veja seu gráfico de barras e descubra seu **Estilo ROAR** dominante.
+4.  Veja seu gráfico de barras e descubra seu **Estilo Oculto** dominante.
 
 ---
 
